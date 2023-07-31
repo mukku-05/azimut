@@ -1,0 +1,61 @@
+.main img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 590px;
+    background-color: yellow;
+    margin-bottom: 30px;
+}
+
+form{
+    margin-top: 10px;
+    margin-left: 500px;
+}
+
+input{
+    height: 40px;
+    width: 250px;
+    background-color: rgb(237, 229, 229);
+    border:none;
+    font-size: 18px;
+    padding-left: 20px;
+    margin-top: 10px;
+    border-radius: 4px;
+    
+}
+#number{
+    margin-left: 5px;
+}
+
+    #login{
+        margin-left: 80px;
+        margin-top: 40px;
+        width:270px;
+        height:38px;
+        background-color: brown;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+    }
+    #regg{
+       position: absolute;
+        text-decoration: none;
+        bottom: 200px;
+        right: 510px;
+        
+
+    }
+    i{
+        margin-left: 60px;
+       font-size: 20px;
+        
+    }
+    #login a{
+       color: white;
+        text-decoration: none;
+        position: relative;
+        top:7px;
+    }
+ 
